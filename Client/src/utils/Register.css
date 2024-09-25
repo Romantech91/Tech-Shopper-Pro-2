@@ -1,0 +1,31 @@
+@media (min-width: 780px) and (max-width: 1199px) {
+    .formContainer {
+        display: flex;
+        height: 600px;
+        justify-content: center;
+        margin-top: 100px;
+    }
+    form {
+        height: 200px;
+        width: 350px;
+    }
+    .offerText {
+        margin-bottom: 20px;
+    }
+  }
+@media (min-width: 1200px) {
+    .formContainer {
+        display: flex;
+        height: 600px;
+        justify-content: center;
+        margin-top: 100px;
+    }
+    form {
+        height: 200px;
+        width: 350px;
+    }
+    .offerText {
+        margin-bottom: 20px;
+        padding-right: 100px;
+    }
+  }

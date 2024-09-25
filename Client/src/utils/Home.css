@@ -1,0 +1,26 @@
+@media (min-width: 780px) {
+    .flair {
+      display: flex;
+      height: 800px;
+    }
+    h2 {
+    font-family: Lucida Handwriting;
+    margin: 20px;
+    }
+    .carousel {
+    margin-left: 0px;
+    }
+  }
+@media (min-width: 1200px) {
+    .flair {
+      display: flex;
+      height: 800px;
+    }
+    h2 {
+    font-family: Lucida Handwriting;
+    margin: 20px;
+    }
+    .carousel {
+      margin-left: 0px;
+      }
+  }

@@ -1,0 +1,16 @@
+/* For screens 780px and above */
+@media (min-width: 780px) {
+  .cartText {
+   display: flex;
+   align-items: center;
+  }
+}
+
+/* For screens 1200px and above */
+@media (min-width: 1200px) {
+  .cartText {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  }
+}
